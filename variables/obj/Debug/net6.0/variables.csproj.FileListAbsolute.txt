@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/variables/bin/Debug/net6.0/variables
+/Users/beliz/Desktop/Practice/variables/bin/Debug/net6.0/variables.deps.json
+/Users/beliz/Desktop/Practice/variables/bin/Debug/net6.0/variables.runtimeconfig.json
+/Users/beliz/Desktop/Practice/variables/bin/Debug/net6.0/variables.dll
+/Users/beliz/Desktop/Practice/variables/bin/Debug/net6.0/variables.pdb
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.dll
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/refint/variables.dll
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.pdb
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/variables.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/variables/obj/Debug/net6.0/ref/variables.dll

@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/console-programming/bin/Debug/net6.0/console-programming
+/Users/beliz/Desktop/Practice/console-programming/bin/Debug/net6.0/console-programming.deps.json
+/Users/beliz/Desktop/Practice/console-programming/bin/Debug/net6.0/console-programming.runtimeconfig.json
+/Users/beliz/Desktop/Practice/console-programming/bin/Debug/net6.0/console-programming.dll
+/Users/beliz/Desktop/Practice/console-programming/bin/Debug/net6.0/console-programming.pdb
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.dll
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/refint/console-programming.dll
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.pdb
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/console-programming.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/console-programming/obj/Debug/net6.0/ref/console-programming.dll
