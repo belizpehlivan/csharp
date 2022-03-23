@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/switch-case/bin/Debug/net6.0/switch-case
+/Users/beliz/Desktop/Practice/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/beliz/Desktop/Practice/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/beliz/Desktop/Practice/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/beliz/Desktop/Practice/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/switch-case/obj/Debug/net6.0/ref/switch-case.dll
