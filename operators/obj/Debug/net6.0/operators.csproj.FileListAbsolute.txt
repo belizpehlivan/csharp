@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/operators/bin/Debug/net6.0/operators
+/Users/beliz/Desktop/Practice/operators/bin/Debug/net6.0/operators.deps.json
+/Users/beliz/Desktop/Practice/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/Users/beliz/Desktop/Practice/operators/bin/Debug/net6.0/operators.dll
+/Users/beliz/Desktop/Practice/operators/bin/Debug/net6.0/operators.pdb
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.dll
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/refint/operators.dll
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.pdb
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/operators/obj/Debug/net6.0/ref/operators.dll
