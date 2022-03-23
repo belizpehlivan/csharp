@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/type-casting/bin/Debug/net6.0/type-casting
+/Users/beliz/Desktop/Practice/type-casting/bin/Debug/net6.0/type-casting.deps.json
+/Users/beliz/Desktop/Practice/type-casting/bin/Debug/net6.0/type-casting.runtimeconfig.json
+/Users/beliz/Desktop/Practice/type-casting/bin/Debug/net6.0/type-casting.dll
+/Users/beliz/Desktop/Practice/type-casting/bin/Debug/net6.0/type-casting.pdb
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.dll
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/refint/type-casting.dll
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.pdb
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/type-casting.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/type-casting/obj/Debug/net6.0/ref/type-casting.dll
