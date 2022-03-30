@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/loops/bin/Debug/net6.0/loops
+/Users/beliz/Desktop/Practice/loops/bin/Debug/net6.0/loops.deps.json
+/Users/beliz/Desktop/Practice/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/Users/beliz/Desktop/Practice/loops/bin/Debug/net6.0/loops.dll
+/Users/beliz/Desktop/Practice/loops/bin/Debug/net6.0/loops.pdb
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.dll
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/refint/loops.dll
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.pdb
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/loops/obj/Debug/net6.0/ref/loops.dll
