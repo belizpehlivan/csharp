@@ -1,0 +1,15 @@
+/Users/beliz/Desktop/Practice/arrays/bin/Debug/net6.0/arrays
+/Users/beliz/Desktop/Practice/arrays/bin/Debug/net6.0/arrays.deps.json
+/Users/beliz/Desktop/Practice/arrays/bin/Debug/net6.0/arrays.runtimeconfig.json
+/Users/beliz/Desktop/Practice/arrays/bin/Debug/net6.0/arrays.dll
+/Users/beliz/Desktop/Practice/arrays/bin/Debug/net6.0/arrays.pdb
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.csproj.AssemblyReference.cache
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.AssemblyInfoInputs.cache
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.AssemblyInfo.cs
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.csproj.CoreCompileInputs.cache
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.dll
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/refint/arrays.dll
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.pdb
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/arrays.genruntimeconfig.cache
+/Users/beliz/Desktop/Practice/arrays/obj/Debug/net6.0/ref/arrays.dll
